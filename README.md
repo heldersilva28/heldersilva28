@@ -1,6 +1,3 @@
-<!-- Banner de topo -->
-<img src="https://i.imgur.com/0Z8FStY.png" alt="Banner" style="width:100%; border-radius: 10px;" />
-
 <h1 align="center">Olá 👋, eu sou o Hélder Silva</h1>
 <p align="center">
   <b>Backend Developer em crescimento | Estudante de Engenharia Informática</b>
@@ -28,7 +25,6 @@ Já participei em projetos académicos e dois estágios profissionais — gosto 
 
 ## 🧠 Tecnologias & Ferramentas
 
-```yaml
 Linguagens:
   - Java, C#, JavaScript, HTML/CSS
 Frameworks:
@@ -36,7 +32,7 @@ Frameworks:
 Bases de Dados:
   - PostgreSQL, JPA/Hibernate
 Ferramentas:
-  - Git & GitHub, JWT, REST APIs, Maven```
+  - Git & GitHub, JWT, REST APIs, Maven
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heldersilva28&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=heldersilva28&theme=radical" width="49%" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldersilva28&layout=compact&theme=radical" width="60%" alt="Top Languages" /> </p>
 
