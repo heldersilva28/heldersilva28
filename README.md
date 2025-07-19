@@ -34,26 +34,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
-const helderSilva = {
-  education: "Engenharia Informática @ IPVC-ESTG",
-  year: "2º Ano",
-  focus: "Backend Development",
-  location: "Vila do Conde, Portugal 🇵🇹",
-  
-  currentlyLearning: [
-    "Spring Boot Advanced",
-    "Microservices Architecture",
-    "Cloud Computing"
-  ],
-  
-  experience: {
-    academicProjects: "ProdTextil - Sistema de Gestão Têxtil",
-    internships: "2x Estágios Profissionais",
-    previousEducation: "Técnico de Gestão de Equipamentos Informáticos"
-  },
-  
-  motto: "Código limpo é como poesia: direto, elegante e poderoso"
-};
+Hélder Silva
+Estudo Engenharia Informática no IPVC - ESTG, atualmente no 2º ano, com foco em desenvolvimento backend. Moro em Vila do Conde, Portugal 🇵🇹.
+
+Atualmente, estou a aprender tópicos avançados em Spring Boot, arquitetura de microserviços e computação na nuvem.
+
+Tenho experiência em projetos académicos, como o ProdTextil — um sistema de gestão têxtil — e já realizei dois estágios profissionais. Antes disso, concluí o curso Técnico de Gestão de Equipamentos Informáticos.
 <br clear="both">
 🛠️ Stack Tecnológico
 <div align="center">
@@ -71,33 +57,3 @@ const helderSilva = {
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=heldersilva28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" /> </div>
 🐍 Animação de Contribuições
 <div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🎯 Projeto em Destaque
-<div align="center">
-🏭 ProdTextil - Sistema de Gestão Têxtil
-<img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tipo-Projeto_Académico-blue?style=for-the-badge" />
-Sistema multiplataforma completo para gestão de empresas têxteis
-
-
-<img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=heldersilva28&amp;repo=prodTextil&amp;theme=tokyonight">
-Componentes:
-  - API REST: Spring Boot + PostgreSQL + JWT
-  - Frontend Web: Blazor WebAssembly
-  - Desktop App: JavaFX
-  
-Funcionalidades:
-  - Gestão de encomendas e clientes
-  - Sistema de autenticação
-  - Dashboards e relatórios
-  - Interface responsiva
-</div>
-📫 Vamos Conectar!
-<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-Estou sempre interessado em discutir:
-🚀 Oportunidades de colaboração
-💡 Projetos interessantes
-🛠️ Novas tecnologias
-☕ Ideias sobre desenvolvimento
-<p> <a href="mailto:helderfsilva2005@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/heldersilva28"> <img src="https://img.shields.io/badge/Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=heldersilva28&color=6366F1&style=for-the-badge" alt="Profile Views" />
-💝 Obrigado pela visita!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%F0%9F%92%BB%2C+%E2%98%95+e+dedica%C3%A7%C3%A3o;Happy+Coding!+%F0%9F%9A%80" /> </div> ```
