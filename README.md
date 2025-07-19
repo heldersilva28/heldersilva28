@@ -1,39 +1,103 @@
-<h1 align="center">Olá 👋, eu sou o Hélder Silva</h1>
-<p align="center">
-  <b>Backend Developer em crescimento | Estudante de Engenharia Informática</b>
+<div align="center">
+
+<!-- Header com animação -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o;H%C3%A9lder+Silva" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/Backend_Developer-Em_Crescimento-6366F1?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudante-Engenharia_Informática-10B981?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:helderfsilva2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-helderfsilva2005@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/heldersilva28">
-    <img src="https://img.shields.io/badge/LinkedIn-Hélder%20Silva-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Local-Portugal-lightgrey?style=flat-square&logo=earth" alt="Local" />
+  <a href="https://github.com/heldersilva28">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
----
+<img src="https://img.shields.io/badge/🇵🇹_Portugal-Vila_do_Conde-FF6B6B?style=for-the-badge" />
 
-## 👨‍💻 Sobre Mim
+</div>
 
-Sou estudante de Engenharia Informática no IPVC - ESTG com foco em desenvolvimento backend.  
-Tenho experiência em Java, C#, Spring Boot, Blazor e PostgreSQL.  
-Já participei em projetos académicos e dois estágios profissionais — gosto de criar soluções bem estruturadas, funcionais e seguras.
+<br/>
 
----
+<!-- Linha divisória animada -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧠 Tecnologias & Ferramentas
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Sobre Mim
 
-Linguagens:
-  - Java, C#, JavaScript, HTML/CSS
-Frameworks:
-  - Spring Boot, JavaFX, Blazor WebAssembly
-Bases de Dados:
-  - PostgreSQL, JPA/Hibernate
-Ferramentas:
-  - Git & GitHub, JWT, REST APIs, Maven
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heldersilva28&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=heldersilva28&theme=radical" width="49%" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldersilva28&layout=compact&theme=radical" width="60%" alt="Top Languages" /> </p>
+```typescript
+const helderSilva = {
+  education: "Engenharia Informática @ IPVC-ESTG",
+  year: "2º Ano",
+  focus: "Backend Development",
+  location: "Vila do Conde, Portugal 🇵🇹",
+  
+  currentlyLearning: [
+    "Spring Boot Advanced",
+    "Microservices Architecture",
+    "Cloud Computing"
+  ],
+  
+  experience: {
+    academicProjects: "ProdTextil - Sistema de Gestão Têxtil",
+    internships: "2x Estágios Profissionais",
+    previousEducation: "Técnico de Gestão de Equipamentos Informáticos"
+  },
+  
+  motto: "Código limpo é como poesia: direto, elegante e poderoso"
+};
+<br clear="both">
+🛠️ Stack Tecnológico
+<div align="center">
+💻 Linguagens
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+🚀 Frameworks & Bibliotecas
+<p> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" /> <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </p>
+🗄️ Bases de Dados & Ferramentas
+<p> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" /> </p> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+📊 Estatísticas do GitHub
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heldersilva28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldersilva28&layout=compact&langs_count=8&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=heldersilva28&theme=tokyonight" alt="GitHub Streak" /> </div>
+🏆 Conquistas GitHub
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=heldersilva28&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" /> </div>
+📈 Atividade de Contribuição
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=heldersilva28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" /> </div>
+🐍 Animação de Contribuições
+<div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🎯 Projeto em Destaque
+<div align="center">
+🏭 ProdTextil - Sistema de Gestão Têxtil
+<img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tipo-Projeto_Académico-blue?style=for-the-badge" />
+Sistema multiplataforma completo para gestão de empresas têxteis
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p> <p align="center"> <i>"Código limpo é como poesia: direto, elegante e poderoso."</i><br /> Desenvolvido com 💻, ☕ e dedicação. </p> ```
+
+<img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=heldersilva28&amp;repo=prodTextil&amp;theme=tokyonight">
+Componentes:
+  - API REST: Spring Boot + PostgreSQL + JWT
+  - Frontend Web: Blazor WebAssembly
+  - Desktop App: JavaFX
+  
+Funcionalidades:
+  - Gestão de encomendas e clientes
+  - Sistema de autenticação
+  - Dashboards e relatórios
+  - Interface responsiva
+</div>
+📫 Vamos Conectar!
+<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+Estou sempre interessado em discutir:
+🚀 Oportunidades de colaboração
+💡 Projetos interessantes
+🛠️ Novas tecnologias
+☕ Ideias sobre desenvolvimento
+<p> <a href="mailto:helderfsilva2005@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/heldersilva28"> <img src="https://img.shields.io/badge/Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=heldersilva28&color=6366F1&style=for-the-badge" alt="Profile Views" />
+💝 Obrigado pela visita!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%F0%9F%92%BB%2C+%E2%98%95+e+dedica%C3%A7%C3%A3o;Happy+Coding!+%F0%9F%9A%80" /> </div> ```
