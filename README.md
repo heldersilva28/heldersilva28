@@ -1,50 +1,52 @@
-# 👋 Olá, eu sou o Hélder Silva
+<!-- Banner de topo -->
+<img src="https://i.imgur.com/0Z8FStY.png" alt="Banner" style="width:100%; border-radius: 10px;" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hélder%20Silva-blue?logo=linkedin&style=flat)](https://linkedin.com/in/heldersilva28)
-[![Gmail](https://img.shields.io/badge/Email-helderfsilva2005%40gmail.com-red?logo=gmail&style=flat)](mailto:helderfsilva2005@gmail.com)
-![Location](https://img.shields.io/badge/Local-Portugal-lightgrey)
+<h1 align="center">Olá 👋, eu sou o Hélder Silva</h1>
+<p align="center">
+  <b>Backend Developer em crescimento | Estudante de Engenharia Informática</b>
+</p>
 
----
-
-🎓 Estudante de Engenharia Informática no IPVC - ESTG  
-💻 Entusiasta de desenvolvimento backend e aplicações multiplataforma  
-📚 Sempre a aprender e a explorar novas tecnologias
-
----
-
-## 🚀 Sobre mim
-
-Sou um jovem programador apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente, estudo Engenharia Informática no IPVC (ESTG) e procuro constantemente novos desafios onde possa aplicar os meus conhecimentos e crescer profissionalmente.
-
-Tenho formação técnica em Gestão de Equipamentos Informáticos e já realizei dois estágios, onde ganhei experiência prática no setor.
+<p align="center">
+  <a href="mailto:helderfsilva2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-helderfsilva2005@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/heldersilva28">
+    <img src="https://img.shields.io/badge/LinkedIn-Hélder%20Silva-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Local-Portugal-lightgrey?style=flat-square&logo=earth" alt="Local" />
+</p>
 
 ---
 
-## 🛠️ Competências Técnicas
+## 👨‍💻 Sobre Mim
 
-- **Linguagens:** Java, C#, JavaScript, HTML, CSS  
-- **Frameworks:** Spring Boot, Blazor, JavaFX  
-- **Bases de Dados:** PostgreSQL  
-- **Outros:** Git, GitHub, JWT, APIs REST
-
----
-
-## 💡 Competências Pessoais
-
-- Resolução de problemas  
-- Trabalho em equipa  
-- Autonomia e organização  
-- Vontade constante de aprender  
-- Boa comunicação
+Sou estudante de Engenharia Informática no IPVC - ESTG com foco em desenvolvimento backend.  
+Tenho experiência em Java, C#, Spring Boot, Blazor e PostgreSQL.  
+Já participei em projetos académicos e dois estágios profissionais — gosto de criar soluções bem estruturadas, funcionais e seguras.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Tecnologias & Ferramentas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=heldersilva28&show_icons=true&theme=tokyonight&hide_title=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=heldersilva28&layout=compact&theme=tokyonight)
+```yaml
+Linguagens:
+  - Java, C#, JavaScript, HTML/CSS
+Frameworks:
+  - Spring Boot, JavaFX, Blazor WebAssembly
+Bases de Dados:
+  - PostgreSQL, JPA/Hibernate
+Ferramentas:
+  - Git & GitHub, JWT, REST APIs, Maven
+🧩 Competências
+✔️ Lógica e pensamento analítico
 
----
+✔️ Boa comunicação em equipa
 
-> Desenvolvido com 💻, ☕ e vontade de ir sempre mais longe.
+✔️ Organização e responsabilidade
+
+✔️ Vontade de aprender e melhorar
+
+📊 Estatísticas do GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heldersilva28&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=heldersilva28&theme=radical" width="49%" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldersilva28&layout=compact&theme=radical" width="60%" alt="Top Languages" /> </p>
+🧬 Animação SVG (Interativa)
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p> <p align="center"> <i>"Código limpo é como poesia: direto, elegante e poderoso."</i><br /> Desenvolvido com 💻, ☕ e dedicação. </p> ```
