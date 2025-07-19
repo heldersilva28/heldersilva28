@@ -36,17 +36,8 @@ Frameworks:
 Bases de Dados:
   - PostgreSQL, JPA/Hibernate
 Ferramentas:
-  - Git & GitHub, JWT, REST APIs, Maven
-🧩 Competências
-✔️ Lógica e pensamento analítico
+  - Git & GitHub, JWT, REST APIs, Maven```
 
-✔️ Boa comunicação em equipa
-
-✔️ Organização e responsabilidade
-
-✔️ Vontade de aprender e melhorar
-
-📊 Estatísticas do GitHub
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heldersilva28&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=heldersilva28&theme=radical" width="49%" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heldersilva28&layout=compact&theme=radical" width="60%" alt="Top Languages" /> </p>
-🧬 Animação SVG (Interativa)
+
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p> <p align="center"> <i>"Código limpo é como poesia: direto, elegante e poderoso."</i><br /> Desenvolvido com 💻, ☕ e dedicação. </p> ```
