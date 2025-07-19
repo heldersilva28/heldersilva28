@@ -35,11 +35,9 @@
 
 
 Hélder Silva
-Estudo Engenharia Informática no IPVC - ESTG, atualmente no 2º ano, com foco em desenvolvimento backend. Moro em Vila do Conde, Portugal 🇵🇹.
+Atualmente no 2º ano da licenciatura em Engenharia Informática no IPVC-ESTG, iniciei a minha jornada tecnológica com o curso de Técnico de Gestão de Equipamentos Informáticos na EPVC (2020-2023).
 
-Atualmente, estou a aprender tópicos avançados em Spring Boot, arquitetura de microserviços e computação na nuvem.
-
-Tenho experiência em projetos académicos, como o ProdTextil — um sistema de gestão têxtil — e já realizei dois estágios profissionais. Antes disso, concluí o curso Técnico de Gestão de Equipamentos Informáticos.
+Durante o secundário, realizei dois estágios curriculares que me proporcionaram o primeiro contacto com o ambiente profissional. Hoje, foco-me em desenvolver as minhas competências através de projetos académicos e desafios práticos.
 <br clear="both">
 🛠️ Stack Tecnológico
 <div align="center">
