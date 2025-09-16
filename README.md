@@ -35,7 +35,7 @@
 
 
 Hélder Silva
-Atualmente no 2º ano da licenciatura em Engenharia Informática no IPVC-ESTG, iniciei a minha jornada tecnológica com o curso de Técnico de Gestão de Equipamentos Informáticos na EPVC (2020-2023).
+Atualmente no 3º ano da licenciatura em Engenharia Informática no IPVC-ESTG, iniciei a minha jornada tecnológica com o curso de Técnico de Gestão de Equipamentos Informáticos na EPVC (2020-2023).
 
 Durante o secundário, realizei dois estágios curriculares que me proporcionaram o primeiro contacto com o ambiente profissional. Hoje, foco-me em desenvolver as minhas competências através de projetos académicos e desafios práticos.
 <br clear="both">
